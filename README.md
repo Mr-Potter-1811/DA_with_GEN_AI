@@ -24,7 +24,6 @@ An end-to-end analytics repository for the Mamaearth Growth Analytics scenario i
 │   └── monthly_revenue_trend.png
 └── narrator/
     ├── findings.json
-    ├── sample_output.txt
     └── generate_narrative.py
 ```
 
